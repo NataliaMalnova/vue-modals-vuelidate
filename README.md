@@ -1,6 +1,18 @@
-# vue-cli
+# VUE - модальные окна
 
-## Project setup
+[Demo](http://natalia-malnova.ru/vue-modals/)
+
+
+## Технологии
+
+    vue cli, Vuelidate, Vue Transitions & Animation
+## Функционал
+
+    1. Открытие/закрытие модальных окон
+    2. Валидация форм, при помоши Vuelidate
+    3. Вывод данных с форм в консоль
+
+## Установка
 ```
 npm install
 ```
@@ -14,6 +26,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
